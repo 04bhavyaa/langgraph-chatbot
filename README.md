@@ -50,7 +50,3 @@ A simple Streamlit-based AI assistant powered by LangGraph and Google Gemini.
 - `streamlit_frontend.py` — Streamlit UI for chat
 - `requirements.txt` — Python dependencies
 - `.env` — Your API key (not committed)
-
-## License
-
-MIT
