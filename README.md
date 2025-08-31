@@ -2,6 +2,8 @@
 
 A simple Streamlit-based AI assistant powered by LangGraph and Google Gemini.
 
+**Live Demo:** [langgraph-chatbott.streamlit.app](https://langgraph-chatbott.streamlit.app)
+
 ## Features
 
 - Conversational AI using LangGraph and Gemini
